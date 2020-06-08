@@ -4,7 +4,7 @@ connection: "bq_googleanalytics_01"
 include: "*.view"
 
 # include all the dashboards
-include: "/dashboards/*.dashboard"
+include: "/dashboards/*.dashboard.lookml"
 
 explore: ga_sessions {
   label: "GA 360B Sessions"
