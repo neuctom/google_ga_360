@@ -1,5 +1,5 @@
-- dashboard: traffic_engagement_overview
-  title: Traffic Engagement Overview
+- dashboard: ga_360b_traffic_engagement_overview
+  title: GA 360B Traffic Engagement Overview
   layout: newspaper
   elements:
   - name: User Engagement metrics by acquisition source, keyword searched, first page

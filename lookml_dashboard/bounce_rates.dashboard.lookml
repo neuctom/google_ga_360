@@ -1,5 +1,5 @@
-- dashboard: bounce_rates
-  title: Bounce Rates
+- dashboard: ga_360b_bounce_rates
+  title: GA 360B Bounce Rates
   layout: newspaper
   elements:
   - name: Total Sessions

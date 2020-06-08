@@ -1,5 +1,5 @@
-- dashboard: transactions_conversions_and_revenue
-  title: Transactions, Conversions, and Revenue
+- dashboard: ga_360b_transactions_conversions_and_revenue
+  title: GA 360B Transactions, Conversions, and Revenue
   layout: newspaper
   elements:
   - name: Top Acquisition Sources by Revenue
