@@ -932,7 +932,7 @@
   - name: Date
     title: Date
     type: date_filter
-    default_value: 14 days
+    default_value: ''
     allow_multiple_values: true
     required: false
   - name: First Time Visitor
