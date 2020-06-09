@@ -878,7 +878,7 @@
   - name: Date
     title: Date
     type: date_filter
-    default_value: 7 days
+    default_value: ''
     allow_multiple_values: true
     required: false
   - name: Campaign
